@@ -1,5 +1,6 @@
 # hacktoberfest2k19
 ## This repo counts the number of pull requests made to this repo.....just continue adding
+## This is only for `Beginners` so if you already know how to contribute to `open source` please don't create `pr` here
 ### pull request 1
 ### pull request 2
 ### pull request 3

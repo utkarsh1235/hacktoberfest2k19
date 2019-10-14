@@ -22,7 +22,3 @@
 ### pull request 93
 ### pull request 567
 ### pull request 765
-### pull request 999
-### pull request 1000
-### pull request 1005
-### pull request 800
